@@ -1,0 +1,28 @@
+{
+	"c2dictionary":true,
+	"data":{
+		"0p":"man",
+		"1p":"woman",
+		"3p":"elephant",
+		"4p":"corn",
+		"5p":"potato",
+		"6p":"banana",
+		"1pI":"man",
+		"2pI":"woman",
+		"3pI":"elephant",
+		"4pI":"banana",
+		"5pI":"potato",
+		"6pI":"corn",
+		"1L":"dadloveme",
+		"2L":"ilovebanana",
+		"3L":"elephantwoman",
+		"4L":"schoolme",
+		"5L":"bananacornpotato",
+		"6L":"dadelephant",
+		"7L":"schoolme",
+		"8L":"dadelephant",
+		"TranslateThai0":"AMRCO",
+		"TranslateThai1":"กล้วยของพ่อ",
+		"TranslateThai2":"ช้างของฉัน"
+	}
+}

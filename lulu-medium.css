@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lulu Med';
+    src: url('Lulu-Medium.eot');
+    src: url('Lulu-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Lulu-Medium.woff') format('woff'),
+        url('Lulu-Medium.ttf') format('truetype'),
+        url('Lulu-Medium.svg#Lulu-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
